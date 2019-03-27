@@ -1,6 +1,7 @@
 # probable-chainsaw
-My first Git repository!
 
-Still no clue what this is about or why I need it. Well, hopefully I'll learn soon.
+The purpose of this project was to experiment on my own with API access (NY Times, in this case) and learn about how to make API calls with JSON and display them on a page.
 
-...OHHHHHH THAT's what this is for.
+My goal is to create a NY Times news search/feed panel that dynamically displays the articles to the user in Bootstrap cards.
+
+This is also the first project that I'm documenting with a README.md file.
